@@ -1,0 +1,5 @@
+--------------------------------------------------------------------------------
+		Marvellous Infosystems CheckSumDuplicate Log
+		Log file is created at :Mon Jun 16 16:24:52 2025
+--------------------------------------------------------------------------------
+Duplicate file is :dict_values([['D:\\Python_Marvellous\\Assignment20\\Demo\\multiplication2 - Copy.py']])
